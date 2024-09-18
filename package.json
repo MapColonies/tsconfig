@@ -1,0 +1,15 @@
+{
+  "name": "@map-colonies/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for MapColonies",
+  "license": "MIT",
+  "repository": "https://github.com/MapColonies/tsconfig",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "tsconfig-base.json",
+    "tsconfig-app.json",
+    "tsconfig-library.json"
+  ]
+}
