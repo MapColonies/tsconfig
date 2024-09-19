@@ -1,7 +1,5 @@
 # tsconfig
 
-# tsconfig
-
 > Shared TypeScript config for my MapColonies
 
 ## Install
