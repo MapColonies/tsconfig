@@ -1,6 +1,6 @@
 # tsconfig
 
-> Shared TypeScript config for my MapColonies
+> Shared TypeScript config for MapColonies
 
 ## Install
 
@@ -8,7 +8,7 @@
 npm install --save-dev @map-colonies/tsconfig
 ```
 
-The config requires TypeScript 5.5 or later.
+The config requires [TypeScript](https://www.typescriptlang.org/) 5.5 or later.
 
 ## Usage
 
@@ -23,5 +23,10 @@ The config requires TypeScript 5.5 or later.
 ## Available files
 
 - `tsconfig-app.json` - For use in services like ts-server-boilerplate
-- `tsconfig-library.json` - For use in libraries published top npm
+- `tsconfig-library.json` - For use in libraries published to npm
 - `tsconfig-base.json` - The base tsconfig file
+
+## Resources
+
+- [TypeScript TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+- [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
