@@ -20,6 +20,9 @@
     "tsconfig-app.json",
     "tsconfig-library.json"
   ],
+  "peerDependencies": {
+    "typescript": ">= 5.5.2"
+  },
   "devDependencies": {
     "husky": "9.1.7",
     "prettier": "^3.3.3",
