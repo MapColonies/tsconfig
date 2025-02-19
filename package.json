@@ -1,6 +1,6 @@
 {
   "name": "@map-colonies/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared TypeScript config for MapColonies",
   "license": "MIT",
   "repository": "github:MapColonies/tsconfig",
