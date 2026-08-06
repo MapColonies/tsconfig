@@ -31,6 +31,6 @@
     "@map-colonies/infra-copilot-instructions": "^1.0.0",
     "@map-colonies/commitlint-config": "^1.1.0",
     "@map-colonies/prettier-config": "^0.0.1",
-    "commitlint": "^19.5.0"
+    "commitlint": "^20.1.0"
   }
 }
